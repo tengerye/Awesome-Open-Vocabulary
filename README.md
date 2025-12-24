@@ -229,6 +229,7 @@ This survey presents the first detailed survey on open vocabulary tasks, includi
 |2023|arXiv|`vlm.`|[CLIP-DINOiser: Teaching CLIP a few DINO tricks](https://arxiv.org/abs/2312.12359)|[Code](https://github.com/wysoczanska/clip_dinoiser)|
 |2024|arXiv|`vlm.`, `no-train`|[Pay Attention to Your Neighbours: Training-Free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2404.08181)|[Code](https://github.com/sinahmr/NACLIP)|
 |2024|ECCV|`vlm.`, `no-train`|[In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2408.04961)|[Code](https://github.com/dahyun-kang/lavg)|
+|2026|AAAI|`cap.`, `vlm.`, `pre.`, `diff.`|[Learning 3D Texture-Aware Representations for Parsing Diverse Human Clothing and Body Parts](https://arxiv.org/abs/2508.06032)|[Project](https://s-pectrum.github.io/)|
 
 #### Instance Segmentation
 
